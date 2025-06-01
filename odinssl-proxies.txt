@@ -1,0 +1,2 @@
+Proxy1:1.2.3.4:1080:user:pass
+Proxy2:2.3.4.5:1080:user:pass
