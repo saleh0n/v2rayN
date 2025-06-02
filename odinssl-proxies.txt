@@ -1,2 +1,2 @@
-ODIN Proxy1:82.21.11.36:6296:odinsslproxy:odinsslproxy
-ODIN Proxy2:82.21.33.195:7946:odinsslproxy:odinsslproxy
+[odinssl] Proxy1:82.21.11.36:6296:odinsslproxy:odinsslproxy
+[odinssl] Proxy2:82.21.33.195:7946:odinsslproxy:odinsslproxy
